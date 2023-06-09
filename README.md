@@ -1,6 +1,6 @@
 # Modeling-Visual-Perception
 
-1) Create a 1920 x 1080 pixel spectral image (400-700nm sampled every 1nm) of a spectrum
+(1) Create a 1920 x 1080 pixel spectral image (400-700nm sampled every 1nm) of a spectrum
 spread uniformly across the image. Use a 5nm triangular bandpass to create your spectral
 samples. Create a second image, from the first, with 5nm increments. Sample several pixels
 from each image and turn in their spectral plots. 
